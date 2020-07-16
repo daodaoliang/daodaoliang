@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 ### Hi there 👋 I am daodaoliang ✨✨
 
 - 🔭 I’m currently working on China jinan
@@ -7,4 +8,3 @@
 - 😄 Pronouns: daodaoliang
 
 <!-- ![daodaoliang](https://github-readme-stats.vercel.app/api?username=daodaoliang&show_icons=true) -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
