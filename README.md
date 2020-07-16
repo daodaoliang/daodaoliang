@@ -1,7 +1,5 @@
 ### Hi there 👋 I am daodaoliang ✨✨
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 - 🔭 I’m currently working on China jinan
 - 🌱 I’m currently learning go
 - 👯 I’m looking to collaborate on FrontEnd
@@ -9,3 +7,4 @@
 - 😄 Pronouns: daodaoliang
 
 ![daodaoliang](https://github-readme-stats.vercel.app/api?username=daodaoliang&show_icons=true)
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
