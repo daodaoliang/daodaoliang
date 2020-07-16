@@ -6,4 +6,6 @@
 - 📫 How to reach me: daodaoliang@yeah.net
 - 😄 Pronouns: daodaoliang
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 ![daodaoliang](https://github-readme-stats.vercel.app/api?username=daodaoliang&show_icons=true)
